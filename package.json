@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "postcss": "^5.0.14",
-    "postcss-simple-vars": "^1.2.0"
+    "postcss-simple-vars": "^2.0.0"
   },
   "devDependencies": {
     "babel": "<6",
